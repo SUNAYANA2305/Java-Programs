@@ -5,8 +5,8 @@ public class sidecardonuts {
 		int donutdrops = 5;
 		int bacondonuts = 6;
 		
-		++donutdrops;
-		bacondonuts++;
+		donutdrops += 7;
+		bacondonuts *= 15;
 		
 		System.out.println(donutdrops);
 		System.out.println(bacondonuts);
