@@ -12,7 +12,7 @@ public class practice {
 		System.out.println("b value is : ");
 		b= x.nextDouble();
 		
-		e=a*b;
+		e=a-b;
 		System.out.println("result e is : " + e);	  
 		
 	}
